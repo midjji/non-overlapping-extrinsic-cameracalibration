@@ -1,9 +1,15 @@
 This is a collection of useful tools that can be used to generate and evaluate synthetic camera
 calibration datasets. This is "research grade" code so documentation is a bit sparse.
 
+If you you use this software in your own research, please cite our paper:
+
+Robinson A., Persson M., Felsberg M.,
+"Robust Accurate Extrinsic Calibration of Static Non-overlapping Cameras",
+17th international Conference on Computer Analysis of Images and Patterns, 2017
+
 License: MIT
 
-Most code is copyright 2017, Andreas Robinson.
+Most code is copyright 2017, Andreas Robinson, Mikael Persson.
 Code marked as coming from stackexchange.com is copyright the original authors and likely
 subject to the MIT license as outlined here:
 https://meta.stackexchange.com/questions/272956/a-new-code-license-the-mit-this-time-with-attribution-required
