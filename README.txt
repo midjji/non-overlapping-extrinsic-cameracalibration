@@ -3,9 +3,13 @@ calibration datasets. This is "research grade" code so documentation is a bit sp
 
 If you you use this software in your own research, please cite our paper:
 
-Robinson A., Persson M., Felsberg M.,
-"Robust Accurate Extrinsic Calibration of Static Non-overlapping Cameras",
-17th international Conference on Computer Analysis of Images and Patterns, 2017
+@inproceedings{robinson2017extrinsic,
+  title={Robust Accurate Extrinsic Calibration of Static Non-overlapping Cameras},
+  author={Robinson, Andreas and Persson, Mikael and Felsberg, Michael},
+  booktitle={International Conference on Computer Analysis of Images and Patterns},
+  year={2017},
+  organization={Springer}
+}
 
 License: MIT
 
